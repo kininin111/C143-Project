@@ -1,0 +1,53 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 2px solid white;
+}
+
+.big_image
+{
+    width: 100%
+}
+
+#start, #status
+{
+    font-size: 22px;
+}
+
+h4
+{
+    background-color: red;
+    color: yellow;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+
+canvas
+{
+    border-radius: 4;
+    border-color: blue;
+    border-width: 3px;
+    border-style: solid;
+}
